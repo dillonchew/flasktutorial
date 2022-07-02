@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    margin: auto;
+}
+
+.content{
+    margin:auto;
+    align-items: center;
+}
+
+.table{
+    margin:auto;
+    align-items: center;
+    border-spacing: 0;
+    border-color: white;
+}
+
+td {
+    text-align: center;
+    padding-right: 25px;
+    padding-left: 25px; 
+    padding-top: 10px;
+    padding-bottom: 10px;        
+} 
+th {
+    text-align: center;
+    padding-right: 25px;
+    padding-left: 25px; 
+    padding-top: 10px;
+    padding-bottom: 10px;        
+} 
